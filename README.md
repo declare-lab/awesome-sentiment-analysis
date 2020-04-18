@@ -1,5 +1,6 @@
 # Reading list for Awesome Sentiment Analysis papers
 
+## Topics
 - [Aspect-based Sentiment Analysis](#aspect-based-sentiment-analysis)
   * [Aspect-level](#aspect-level)
 - [Multimodal Sentiment Analysis](#multimodal-sentiment-analysis)
