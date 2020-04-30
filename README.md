@@ -14,6 +14,7 @@
 
 -  [Sentiment Analysis and Opinion Mining](https://www.morganclaypool.com/doi/abs/10.2200/s00416ed1v01y201204hlt016)
 -  [Automatic Sarcasm Detection: A Survey](https://dl.acm.org/doi/10.1145/3124420)
+-  [Generating natural language under pragmatic constraints](https://dl.acm.org/doi/book/10.5555/535378)
 
 ## Aspect-based Sentiment Analysis
 
@@ -90,4 +91,23 @@ predict sarcasm](https://www.aclweb.org/anthology/W15-2905.pdf)
 
 ## Multilingual Sentiment Analysis
 
+-  [Erratum to: Multilingual Sentiment Analysis: State of the Art and Independent Comparison of Techniques](https://doi.org/10.1007/s12559-016-9421-9)
+-  [Comparing the Level of Code-Switching in Corpora](http://www.lrec-conf.org/proceedings/lrec2016/pdf/669_Paper.pdf)
+-  [De-Mixing Sentiment from Code-Mixed Text](https://www.aclweb.org/anthology/P19-2052.pdf)
+
 ## Sentiment-aware NLG
+
+-  [The effects of affective interventions in human--computer interaction](https://academic.oup.com/iwc/article/16/2/295/723724)
+-  [Predicting and Eliciting Addressee’s Emotion in Online Dialogue](https://www.aclweb.org/anthology/P13-1095.pdf)
+-  [Emotional chatting machine: Emotional conversation generation with internal and external memory](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)
+-  [Affect-LM: A Neural Language Model for Customizable Affective Text Generation](https://www.aclweb.org/anthology/P17-1059/)
+-  [A Pattern-Based Model for Generating Text to Express Emotion](https://link.springer.com/chapter/10.1007/978-3-642-24571-8_2)
+-  [Toward Controlled Generation of Text](http://proceedings.mlr.press/v70/hu17e.html)
+-  [SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks](https://www.ijcai.org/Proceedings/2018/0618.pdf)
+-  [Learning to Generate Reviews and Discovering Sentiment](https://arxiv.org/abs/1704.01444)
+-  [Learning to Generate Product Reviews from Attributes](https://www.aclweb.org/anthology/E17-1059/)
+-  [Delete, Retrieve, Generate: a Simple Approach to Sentiment and Style Transfer](https://www.aclweb.org/anthology/N18-1169/)
+-  [Disentangled Representation Learning for Non-Parallel Text Style Transfer](https://www.aclweb.org/anthology/P19-1041/)
+-  [Style Transfer from Non-Parallel Text by Cross-Alignment](https://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment.pdf)
+
+
