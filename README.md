@@ -51,6 +51,14 @@ predict sarcasm](https://www.aclweb.org/anthology/W15-2905.pdf)
 
 ## Domain Adaptation
 
+-  [Biographies, Bollywood, Boom-boxes and Blenders: Domain Adaptation for Sentiment Classification](https://www.aclweb.org/anthology/P07-1056.pdf)
+-  [Domain Adaptation for Large-Scale Sentiment Classification: A Deep Learning Approach](http://www.icml-2011.org/papers/342_icmlpaper.pdf)
+-  [Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora](https://www.aclweb.org/anthology/D16-1057/)
+-  [Marginalized Denoising Autoencoders for Domain Adaptation](https://dl.acm.org/doi/10.5555/3042573.3042781)
+-  [Unsupervised Domain Adaptation by Backpropagation](http://proceedings.mlr.press/v37/ganin15.pdf)
+-  [Cross-domain sentiment classification via spectral feature alignment](https://dl.acm.org/doi/10.1145/1772690.1772767)
+-  [Pivot Based Language Modeling for Improved Neural Domain Adaptation](https://www.aclweb.org/anthology/N18-1112/)
+
 ## Multilingual Sentiment Analysis
 
 ## Sentiment-aware NLG
