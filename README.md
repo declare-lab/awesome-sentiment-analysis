@@ -17,7 +17,35 @@
 
 ## Aspect-based Sentiment Analysis
 
+-  [Mining and summarizing customer reviews](https://dl.acm.org/doi/10.1145/1014052.1014073)
+-  [Topic sentiment mixture: modeling facets and opinions in weblogs](https://dl.acm.org/doi/10.1145/1242572.1242596)
+-  [Automatically Extracting Polarity-Bearing Topics for Cross-Domain Sentiment Classification](https://www.aclweb.org/anthology/P11-1013/)
+-  [Opinion Word Expansion and Target Extraction through Double Propagation](https://www.mitpressjournals.org/doi/pdf/10.1162/coli_a_00034)
+-  [Automated Rule Selection for Aspect Extraction in Opinion Mining](https://www.ijcai.org/Proceedings/15/Papers/186.pdf)
+-  [Aspect extraction for opinion mining with a deep convolutional neural network](https://www.sentic.net/aspect-extraction-for-opinion-mining.pdf)
+-  [Lifelong Learning {CRF} for Supervised Aspect Extraction](https://doi.org/10.18653/v1/P17-2023)
+-  [Attention-based LSTM for aspect-level sentiment classification](https://www.aclweb.org/anthology/D16-1058/)
+-  [Dyadic Memory Networks for Aspect-based Sentiment Analysis](https://doi.org/10.1145/3132847.3132936)
+-  [Aspect Specific Sentiment Analysis using Hierarchical Deep Learning](http://nyc.lti.cs.cmu.edu/classes/11-741/Papers/lakkaraju-nips-wksp14.pdf)
+-  [DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction](https://www.aclweb.org/anthology/P19-1056/)
+
 ## Multimodal Sentiment Analysis
+
+-  [Multimodal sentiment analysis](https://dl.acm.org/doi/10.5555/2392963.2392965)
+-  [Deep Convolutional Neural Network Textual Features and Multiple Kernel Learning for Utterance-level Multimodal Sentiment Analysis](https://www.aclweb.org/anthology/D15-1303/)
+-  [Context-Dependent Sentiment Analysis in User-Generated Videos](https://doi.org/10.18653/v1/P17-1081)
+-  [Multimodal sentiment analysis using hierarchical fusion with context modeling](https://doi.org/10.1016/j.knosys.2018.07.041)
+-  [Tensor Fusion Network for Multimodal Sentiment Analysis](https://www.aclweb.org/anthology/D17-1115/)
+-  [Efficient Low-rank Multimodal Fusion With Modality-Specific Factors](https://www.aclweb.org/anthology/P18-1209/)
+-  [Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph](https://www.aclweb.org/anthology/P18-1208/)
+-  [Memory Fusion Network for Multi-view Sequential Learning](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/17341/16122)
+-  [Multi-attention Recurrent Network for Human Communication Comprehension](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17390)
+-  [Contextual Inter-modal Attention for Multi-modal Sentiment Analysis](https://doi.org/10.18653/v1/d18-1382)
+-  [Context-aware Interactive Attention for Multi-modal Sentiment and Emotion Analysis](https://doi.org/10.18653/v1/D19-1566)
+-  [Multimodal Transformer for Unaligned Multimodal Language Sequences](https://www.aclweb.org/anthology/P19-1656/)
+-  [Seq2Seq2Sentiment: Multimodal Sequence to Sequence Models for Sentiment Analysis](https://www.aclweb.org/anthology/W18-3308.pdf)
+-  [Found in Translation: Learning Robust Joint Representations by Cyclic Translations between Modalities](https://wvvw.aaai.org/ojs/index.php/AAAI/article/view/4666)
+-  [Modality to Modality Translation: An Adversarial Representation Learning and Graph Fusion Network for Multimodal Fusion](http://arxiv.org/abs/1911.07848)
 
 ## Contextual Sentiment Analysis
 
@@ -56,6 +84,7 @@ predict sarcasm](https://www.aclweb.org/anthology/W15-2905.pdf)
 -  [Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora](https://www.aclweb.org/anthology/D16-1057/)
 -  [Marginalized Denoising Autoencoders for Domain Adaptation](https://dl.acm.org/doi/10.5555/3042573.3042781)
 -  [Unsupervised Domain Adaptation by Backpropagation](http://proceedings.mlr.press/v37/ganin15.pdf)
+-  [Domain Separation Networks](http://papers.nips.cc/paper/6254-domain-separation-networks)
 -  [Cross-domain sentiment classification via spectral feature alignment](https://dl.acm.org/doi/10.1145/1772690.1772767)
 -  [Pivot Based Language Modeling for Improved Neural Domain Adaptation](https://www.aclweb.org/anthology/N18-1112/)
 
