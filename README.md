@@ -1,6 +1,6 @@
 # Reading list for Awesome Sentiment Analysis papers
 
-![Alt text](sentiment-flowchart.pdf?raw=true "Title")
+![Alt text](sentiment-flowchart.jpeg?raw=true "Title")
 
 ## Topics
 - [Aspect-based Sentiment Analysis](#aspect-based-sentiment-analysis)
