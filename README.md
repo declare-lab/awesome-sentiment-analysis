@@ -1,5 +1,7 @@
 # Reading list for Awesome Sentiment Analysis papers
 
+![Alt text](aspect-tree.pdf?raw=true "Title")
+
 ## Topics
 - [Aspect-based Sentiment Analysis](#aspect-based-sentiment-analysis)
 - [Multimodal Sentiment Analysis](#multimodal-sentiment-analysis)
