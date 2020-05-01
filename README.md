@@ -1,5 +1,7 @@
 # Reading list for Awesome Sentiment Analysis papers
 
+## Sub-Tasks in Sentiment Analysis
+
 ![Alt text](sentiment-flowchart.jpg?raw=true "Title")
 
 ## Topics
