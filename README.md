@@ -4,15 +4,6 @@
 
 ![Alt text](sentiment-flowchart.jpg?raw=true "Title")
 
-## Topics
-- [Aspect-based Sentiment Analysis](#aspect-based-sentiment-analysis)
-- [Multimodal Sentiment Analysis](#multimodal-sentiment-analysis)
-- [Contextual Sentiment Analysis](#contextual-sentiment-analysis)
-- [Sentiment Reasoning](#sentiment-reasoning)
-- [Sarcasm Analysis](#sarcasm-analysis)
-- [Domain Adaptation](#domain-adaptation)
-- [Multilingual Sentiment Analysis](#multilingual-sentiment-analysis)
-- [Sentiment-aware NLG](#sentiment-aware-nlg)
 
 ## Beginner's Guide
 
@@ -27,6 +18,17 @@ and gradability on sentence subjectivity](https://www.aclweb.org/anthology/C00-1
 - [Convolutional neural networks for sentence classification](https://www.aclweb.org/anthology/D14-1181.pdf)
 - [Contextual valence shifters](https://www.aaai.org/Papers/Symposia/Spring/2004/SS-04-07/SS04-07-020.pdf)
 - [SENTIWORDNET: A publicly available lexical resource for opinion mining](http://www.esuli.it/publications/LREC2006.pdf)
+
+## Topics
+- [Aspect-based Sentiment Analysis](#aspect-based-sentiment-analysis)
+- [Multimodal Sentiment Analysis](#multimodal-sentiment-analysis)
+- [Contextual Sentiment Analysis](#contextual-sentiment-analysis)
+- [Sentiment Reasoning](#sentiment-reasoning)
+- [Sarcasm Analysis](#sarcasm-analysis)
+- [Domain Adaptation](#domain-adaptation)
+- [Multilingual Sentiment Analysis](#multilingual-sentiment-analysis)
+- [Sentiment-aware NLG](#sentiment-aware-nlg)
+- [Bias in Sentiment Analysis Systems](#bias-in-sentiment-analysis-systems)
 
 ## Survey, Books, and Opinion Pieces
 
