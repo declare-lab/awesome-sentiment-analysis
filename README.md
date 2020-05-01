@@ -1,5 +1,8 @@
 # Reading list for Awesome Sentiment Analysis papers
 
+Sentiment analysis as a field has come a long way since it was first introduced as a task nearly 20 years ago. It has
+widespread commercial applications in various domains like marketing, risk management, market research, and politics, to name a few. Given its saturation in specific subtasks — such as sentiment polarity classification — and datasets, there is an underlying perception that this field has reached its maturity. Please read this paper - [Beneath the Tip of the Iceberg: Current Challenges and New Directions in Sentiment Analysis Research](https://declare-lab.net/assets/pdfs/Sentiment_Analysis_New_Directions.pdf) for our take on the future of this field using the following papers as a guide.
+
 ## Sub-Tasks in Sentiment Analysis
 
 ![Alt text](sentiment-flowchart.jpg?raw=true "Title")
