@@ -64,6 +64,12 @@ and gradability on sentence subjectivity](https://www.aclweb.org/anthology/C00-1
 
 ## Contextual Sentiment Analysis
 
+- [Coarse-grained +/-effect word sense disambiguation for implicit sentiment analysis](https://web.eecs.umich.edu/~mihalcea/papers/choi.ieeetac17.pdf)
+- [Sentiment propagation via implicature constraints](https://www.aclweb.org/anthology/E14-1040.pdf)
+- [Context-dependent sentiment analysis in user-generated videos](https://www.aclweb.org/anthology/P17-1081.pdf)
+- [Enhanced twitter sentiment classification using contextual information](https://www.aclweb.org/anthology/W15-2904.pdf)
+- [Contextual valence shifters](https://www.aaai.org/Papers/Symposia/Spring/2004/SS-04-07/SS04-07-020.pdf)
+
 ## Sentiment Reasoning
 
 ### Who 
