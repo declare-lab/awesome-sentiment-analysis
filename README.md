@@ -112,7 +112,7 @@ predict sarcasm](https://www.aclweb.org/anthology/W15-2905.pdf)
 
 ## Multilingual Sentiment Analysis
 
--  [Erratum to: Multilingual Sentiment Analysis: State of the Art and Independent Comparison of Techniques](https://doi.org/10.1007/s12559-016-9421-9)
+-  [Multilingual Sentiment Analysis: State of the Art and Independent Comparison of Techniques](https://doi.org/10.1007/s12559-016-9421-9)
 -  [Comparing the Level of Code-Switching in Corpora](http://www.lrec-conf.org/proceedings/lrec2016/pdf/669_Paper.pdf)
 -  [De-Mixing Sentiment from Code-Mixed Text](https://www.aclweb.org/anthology/P19-2052.pdf)
 
