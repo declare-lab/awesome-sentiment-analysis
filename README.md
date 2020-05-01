@@ -82,6 +82,8 @@ and gradability on sentence subjectivity](https://www.aclweb.org/anthology/C00-1
 - [Joint inference for fine-grained opinion extraction](https://www.aclweb.org/anthology/P13-1161.pdf)
 ### Why
 -  [Reflections on Sentiment/Opinion Analysis](https://www.cs.cmu.edu/~hovy/papers/15sentiment-li-hovy.pdf)
+-  [Coarse-grained +/-effect word sense disambiguation for implicit sentiment analysis](https://web.eecs.umich.edu/~mihalcea/papers/choi.ieeetac17.pdf)
+-  [Sentiment propagation via implicature constraints](https://www.aclweb.org/anthology/E14-1040.pdf)
 
 ## Sarcasm Analysis
 -  [ICWSM - A Great Catchy Name: Semi-Supervised Recognition of Sarcastic Sentences in Online Product Reviews](https://www.cs.huji.ac.il/~arir/10-sarcasmAmazonICWSM10.pdf)
