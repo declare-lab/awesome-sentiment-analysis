@@ -10,6 +10,20 @@
 - [Multilingual Sentiment Analysis](#multilingual-sentiment-analysis)
 - [Sentiment-aware NLG](#sentiment-aware-nlg)
 
+## Beginner's Guide
+
+- [Effects of adjective orientation
+and gradability on sentence subjectivity](https://www.aclweb.org/anthology/C00-1044.pdf)
+- [Word sense and subjectivity](http://people.cs.pitt.edu/~wiebe/pubs/papers/acl06.pdf)
+- [Thumbs up?: sentiment classification using machine learning techniques](https://www.aclweb.org/anthology/W02-1011.pdf)
+- [Thumbs up or thumbs down? semantic orientation applied to unsupervised classification of reviews]()
+- [A sentimental education: Sentiment analysis using subjectivity summarization based on minimum cuts](https://www.aclweb.org/anthology/P04-1035.pdf)
+- [Mining and summarizing customer reviews](https://dl.acm.org/doi/10.1145/1014052.1014073)
+- [Recursive deep models for semantic compositionality over a sentiment treebank](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf)
+- [Convolutional neural networks for sentence classification](https://www.aclweb.org/anthology/D14-1181.pdf)
+- [Contextual valence shifters](https://www.aaai.org/Papers/Symposia/Spring/2004/SS-04-07/SS04-07-020.pdf)
+- [SENTIWORDNET: A publicly available lexical resource for opinion mining](http://www.esuli.it/publications/LREC2006.pdf)
+
 ## Survey, Books, and Opinion Pieces
 
 -  [Sentiment Analysis and Opinion Mining](https://www.morganclaypool.com/doi/abs/10.2200/s00416ed1v01y201204hlt016)
@@ -53,7 +67,8 @@
 ## Sentiment Reasoning
 
 ### Who 
-
+- [End-to-end joint opinion role labeling with BERT](https://ieeexplore.ieee.org/document/9006119)
+- [Joint inference for fine-grained opinion extraction](https://www.aclweb.org/anthology/P13-1161.pdf)
 ### Why
 -  [Reflections on Sentiment/Opinion Analysis](https://www.cs.cmu.edu/~hovy/papers/15sentiment-li-hovy.pdf)
 
@@ -109,5 +124,11 @@ predict sarcasm](https://www.aclweb.org/anthology/W15-2905.pdf)
 -  [Delete, Retrieve, Generate: a Simple Approach to Sentiment and Style Transfer](https://www.aclweb.org/anthology/N18-1169/)
 -  [Disentangled Representation Learning for Non-Parallel Text Style Transfer](https://www.aclweb.org/anthology/P19-1041/)
 -  [Style Transfer from Non-Parallel Text by Cross-Alignment](https://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment.pdf)
+
+## Bias in Sentiment Analysis Systems
+
+- [Examining gender and race bias in two hundred sentiment analysis systems](https://www.aclweb.org/anthology/S18-2005.pdf)
+- [Exploring demographic language variations to improve multilingual sentiment analysis in social media](https://www.aclweb.org/anthology/D13-1187.pdf)
+- [The geography of happiness: Connecting twitter sentiment and expression, demographics, and objective characteristics of place](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064417)
 
 
