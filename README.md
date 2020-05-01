@@ -40,6 +40,8 @@ and gradability on sentence subjectivity](https://www.aclweb.org/anthology/C00-1
 -  [Challenges in Sentiment Analysis](https://saifmohammad.com/WebDocs/sentiment-challenges.pdf)
 -  [Automatic Sarcasm Detection: A Survey](https://dl.acm.org/doi/10.1145/3124420)
 -  [Generating natural language under pragmatic constraints](https://dl.acm.org/doi/book/10.5555/535378)
+-  [A survey of opinion mining and sentiment analysis](https://link.springer.com/chapter/10.1007/978-1-4614-3223-4_13)
+-  [A survey on opinion mining and sentiment analysis: Tasks, approaches and applications](https://www.sciencedirect.com/science/article/pii/S0950705115002336)
 
 ## Aspect-based Sentiment Analysis
 
