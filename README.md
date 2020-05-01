@@ -125,7 +125,7 @@ predict sarcasm](https://www.aclweb.org/anthology/W15-2905.pdf)
 
 ## Sentiment-aware NLG
 
--  [The effects of affective interventions in human--computer interaction](https://academic.oup.com/iwc/article/16/2/295/723724)
+-  [The effects of affective interventions in human-computer interaction](https://academic.oup.com/iwc/article/16/2/295/723724)
 -  [Predicting and Eliciting Addressee’s Emotion in Online Dialogue](https://www.aclweb.org/anthology/P13-1095.pdf)
 -  [Emotional chatting machine: Emotional conversation generation with internal and external memory](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)
 -  [Affect-LM: A Neural Language Model for Customizable Affective Text Generation](https://www.aclweb.org/anthology/P17-1059/)
