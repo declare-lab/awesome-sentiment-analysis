@@ -4,8 +4,7 @@
 
 ![Alt text](sentiment-flowchart.jpg?raw=true "Title")
 
-
-## Beginner's Guide
+## Beginner's Guide (Must-Read Papers)
 
 - [Effects of adjective orientation
 and gradability on sentence subjectivity](https://www.aclweb.org/anthology/C00-1044.pdf)
