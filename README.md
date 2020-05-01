@@ -32,6 +32,7 @@ and gradability on sentence subjectivity](https://www.aclweb.org/anthology/C00-1
 ## Survey, Books, and Opinion Pieces
 
 -  [Sentiment Analysis and Opinion Mining](https://www.morganclaypool.com/doi/abs/10.2200/s00416ed1v01y201204hlt016)
+-  [Challenges in Sentiment Analysis](https://saifmohammad.com/WebDocs/sentiment-challenges.pdf)
 -  [Automatic Sarcasm Detection: A Survey](https://dl.acm.org/doi/10.1145/3124420)
 -  [Generating natural language under pragmatic constraints](https://dl.acm.org/doi/book/10.5555/535378)
 
