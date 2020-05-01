@@ -42,7 +42,7 @@ and gradability on sentence subjectivity](https://www.aclweb.org/anthology/C00-1
 -  [Opinion Word Expansion and Target Extraction through Double Propagation](https://www.mitpressjournals.org/doi/pdf/10.1162/coli_a_00034)
 -  [Automated Rule Selection for Aspect Extraction in Opinion Mining](https://www.ijcai.org/Proceedings/15/Papers/186.pdf)
 -  [Aspect extraction for opinion mining with a deep convolutional neural network](https://www.sentic.net/aspect-extraction-for-opinion-mining.pdf)
--  [Lifelong Learning {CRF} for Supervised Aspect Extraction](https://doi.org/10.18653/v1/P17-2023)
+-  [Lifelong Learning CRF for Supervised Aspect Extraction](https://doi.org/10.18653/v1/P17-2023)
 -  [Attention-based LSTM for aspect-level sentiment classification](https://www.aclweb.org/anthology/D16-1058/)
 -  [Dyadic Memory Networks for Aspect-based Sentiment Analysis](https://doi.org/10.1145/3132847.3132936)
 -  [Aspect Specific Sentiment Analysis using Hierarchical Deep Learning](http://nyc.lti.cs.cmu.edu/classes/11-741/Papers/lakkaraju-nips-wksp14.pdf)
