@@ -3,7 +3,9 @@
 Sentiment analysis as a field has come a long way since it was first introduced as a task nearly 20 years ago. It has
 widespread commercial applications in various domains like marketing, risk management, market research, and politics, to name a few. Given its saturation in specific subtasks — such as sentiment polarity classification — and datasets, there is an underlying perception that this field has reached its maturity.
 
-Interested to know our take on the current challenges and future directions of this field using the following papers as compass? Read this paper - [Beneath the tip of the iceberg: Current challenges and new directions
+> Interested to know our take on the current challenges and future directions of this field using the following papers as compass? 
+>
+>> Read this paper - [Beneath the tip of the iceberg: Current challenges and new directions
 in sentiment analysis research.](https://arxiv.org/pdf/2005.00357.pdf) Soujanya Poria, Devamanyu Hazarika, Navonil Majumder, and Rada Mihalcea. 2020. arXiv preprint arXiv:2005.00357 
 
 ## Sub-Tasks in Sentiment Analysis
