@@ -12,6 +12,10 @@ in sentiment analysis research.](https://arxiv.org/pdf/2005.00357.pdf) Soujanya 
 
 ![Alt text](sentiment-flowchart.jpg?raw=true "Title")
 
+## New Directions in Sentiment Analysis
+
+![Alt text](org-new.png?raw=true "Title")
+
 ## Beginner's Guide (Must-Read Papers)
 
 - [Effects of adjective orientation
