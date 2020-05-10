@@ -8,10 +8,6 @@ widespread commercial applications in various domains like marketing, risk manag
 >> Read this paper - [Beneath the tip of the iceberg: Current challenges and new directions
 in sentiment analysis research.](https://arxiv.org/pdf/2005.00357.pdf) Soujanya Poria, Devamanyu Hazarika, Navonil Majumder, and Rada Mihalcea. 2020. arXiv preprint arXiv:2005.00357 
 
-## Sub-Tasks in Sentiment Analysis
-
-![Alt text](sentiment-flowchart.jpg?raw=true "Title")
-
 ## New Directions in Sentiment Analysis
 
 ![Alt text](org2-new.png?raw=true "Title")
