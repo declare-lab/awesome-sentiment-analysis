@@ -157,3 +157,6 @@ predict sarcasm](https://www.aclweb.org/anthology/W15-2905.pdf)
 - [The geography of happiness: Connecting twitter sentiment and expression, demographics, and objective characteristics of place](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064417)
 
 ## Robust Sentiment Analysis
+
+- [Word-level Textual Adversarial Attacking as Combinatorial Optimization | ACL 2020](https://www.aclweb.org/anthology/2020.acl-main.540.pdf)
+- [LexicalAT: Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification | EMNLP 2019](https://www.aclweb.org/anthology/D19-1554.pdf)
