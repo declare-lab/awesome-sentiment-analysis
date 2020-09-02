@@ -160,3 +160,6 @@ predict sarcasm](https://www.aclweb.org/anthology/W15-2905.pdf)
 
 - [Word-level Textual Adversarial Attacking as Combinatorial Optimization | ACL 2020](https://www.aclweb.org/anthology/2020.acl-main.540.pdf)
 - [LexicalAT: Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification | EMNLP 2019](https://www.aclweb.org/anthology/D19-1554.pdf)
+- [Adversarial Attack on Sentiment Classification | ACL 2019 Workshop](https://www.aclweb.org/anthology/W19-4824.pdf)
+- [Adversarial Training for Aspect-Based Sentiment Analysis with BERT](https://arxiv.org/pdf/2001.11316.pdf)
+
