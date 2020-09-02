@@ -36,6 +36,7 @@ and gradability on sentence subjectivity](https://www.aclweb.org/anthology/C00-1
 - [Multilingual Sentiment Analysis](#multilingual-sentiment-analysis)
 - [Sentiment-aware NLG](#sentiment-aware-nlg)
 - [Bias in Sentiment Analysis Systems](#bias-in-sentiment-analysis-systems)
+- [Robust Sentiment Analysis](#robust-sentiment-analysis)
 
 ## Survey, Books, and Opinion Pieces
 
@@ -155,4 +156,10 @@ predict sarcasm](https://www.aclweb.org/anthology/W15-2905.pdf)
 - [Exploring demographic language variations to improve multilingual sentiment analysis in social media](https://www.aclweb.org/anthology/D13-1187.pdf)
 - [The geography of happiness: Connecting twitter sentiment and expression, demographics, and objective characteristics of place](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064417)
 
+## Robust Sentiment Analysis
+
+- [Word-level Textual Adversarial Attacking as Combinatorial Optimization | ACL 2020](https://www.aclweb.org/anthology/2020.acl-main.540.pdf)
+- [LexicalAT: Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification | EMNLP 2019](https://www.aclweb.org/anthology/D19-1554.pdf)
+- [Adversarial Attack on Sentiment Classification | ACL 2019 Workshop](https://www.aclweb.org/anthology/W19-4824.pdf)
+- [Adversarial Training for Aspect-Based Sentiment Analysis with BERT](https://arxiv.org/pdf/2001.11316.pdf)
 
